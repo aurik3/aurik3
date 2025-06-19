@@ -7,7 +7,7 @@ Senior Backend Developer | FullStack Developer | Flutter Junior Developer
 * 🌍  I'm based in Bogotá - Colombia
 * ✉️  You can contact me at [aurik3@gmail.com](mailto:aurik3@gmail.com)
 * 🚀  I'm currently working on [Grupo Alianza Colombia S.A.S](http://grupoalianzacolombia.com)
-* 🧠  I'm learning Flutter and Reacr Native Frameworks
+* 🧠  I'm learning Flutter and React Native Frameworks
 * 🤝  I'm open to collaborating on Open Source Proyects
 * ⚡  IA lover
 
